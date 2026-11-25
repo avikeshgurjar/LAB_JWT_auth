@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+generated/
+.agents/
+.claude/
+.windsurf/
+.DS_Store
+dist/
+coverage/
+*.log
+
+
+
+
+
+
